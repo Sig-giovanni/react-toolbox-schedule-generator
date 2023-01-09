@@ -8,5 +8,9 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  plugins: [],
-}
+  siteMetadata: {
+    title: "React toolbox scheduler",
+    description: "Nice and clean gatsby react toolbox schedluer",
+    author: "Abraham Kingsley",
+  },
+};
